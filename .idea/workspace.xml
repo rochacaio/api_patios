@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec6d6da-f565-4aae-8c61-a3aa77e5122e" name="Changes" comment="first commit" />
+    <list default="true" id="7ec6d6da-f565-4aae-8c61-a3aa77e5122e" name="Changes" comment="adiciona script no package json">
+      <change afterPath="$PROJECT_DIR$/arquivos/patios.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/patios/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/patios/patios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/hello.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EstudosNodeBR" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -38,7 +44,7 @@
       <updated>1647612939151</updated>
       <workItem from="1647612940308" duration="357000" />
       <workItem from="1647613315668" duration="648000" />
-      <workItem from="1647613989802" duration="1536000" />
+      <workItem from="1647613989802" duration="13774000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1647615381131</created>
@@ -47,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647615381131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adiciona script no package json">
+      <created>1647615633104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647615633104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="adiciona script no package json" />
+    <option name="LAST_COMMIT_MESSAGE" value="adiciona script no package json" />
   </component>
 </project>
