@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec6d6da-f565-4aae-8c61-a3aa77e5122e" name="Changes" comment="adiciona script no package json">
-      <change afterPath="$PROJECT_DIR$/arquivos/patios.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/patios/[id].js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/patios/patios.js" afterDir="false" />
+    <list default="true" id="7ec6d6da-f565-4aae-8c61-a3aa77e5122e" name="Changes" comment="adiciona CRUD patios">
+      <change afterPath="$PROJECT_DIR$/arquivos/usuarios.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/usuarios/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/usuarios/usuarios.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/hello.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +28,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EstudosNodeBR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/arquivos" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\caior\Desktop\api_patios\arquivos" />
+      <recent name="C:\Users\caior\Desktop\api_patios\pages\api" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,7 +49,9 @@
       <updated>1647612939151</updated>
       <workItem from="1647612940308" duration="357000" />
       <workItem from="1647613315668" duration="648000" />
-      <workItem from="1647613989802" duration="13774000" />
+      <workItem from="1647613989802" duration="14208000" />
+      <workItem from="1647974616657" duration="1575000" />
+      <workItem from="1648134391377" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1647615381131</created>
@@ -60,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647615633104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adiciona CRUD patios">
+      <created>1647634784964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647634784964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="adiciona script no package json" />
-    <option name="LAST_COMMIT_MESSAGE" value="adiciona script no package json" />
+    <MESSAGE value="adiciona CRUD patios" />
+    <option name="LAST_COMMIT_MESSAGE" value="adiciona CRUD patios" />
   </component>
 </project>
